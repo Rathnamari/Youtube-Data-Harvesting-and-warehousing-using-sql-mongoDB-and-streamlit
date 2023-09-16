@@ -14,3 +14,8 @@ The following technologies are used in this project
 *MongoDB
 *SQL
 *Streamlit
+
+#contact
+
+LinkedIn : https://www.linkedin.com/in/rathna-mari-041aa4251
+email_id : tkkrathna26@gmail.com
