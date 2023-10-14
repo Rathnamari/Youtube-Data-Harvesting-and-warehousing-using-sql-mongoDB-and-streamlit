@@ -3,7 +3,7 @@
      Youtube-Data-Harvesting-and-warehousing-using-sql-mongoDB-and-streamlit project aims to allow users to access and 
 analyze data from youtube channels using python scripting and store it in a MongoDB database as a data lake.
 This provides a powerful tool for retrieving, storing and analyzing youtube channels
-and users can easily access and maipullate youtube.
+and users can easily access and manuipulate youtube.
 
 # Technologies used
 
